@@ -1,3 +1,7 @@
 index.html
 style.css
-script.js
+const trackingData = {
+  "CMD001": "📦 En préparation.",
+  "CMD002": "🚚 En livraison.",
+  "CMD003": "✅ Livré."
+};
